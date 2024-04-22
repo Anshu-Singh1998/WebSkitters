@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284854882925",
+    "project_id": "webskitters-3f76d",
+    "storage_bucket": "webskitters-3f76d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284854882925:android:4baf3639477c5da307e564",
+        "android_client_info": {
+          "package_name": "com.webskitters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DqnSEz3-aTbiZQCMQrE5i4e-1O9DgfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
